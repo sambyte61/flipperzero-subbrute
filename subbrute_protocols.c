@@ -11,7 +11,7 @@ const SubBruteProtocol subbrute_protocol_came_12bit_303 = {
     .frequency = 303875000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = CAMEFileProtocol};
 
@@ -22,7 +22,7 @@ const SubBruteProtocol subbrute_protocol_came_12bit_307 = {
     .frequency = 307800000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = CAMEFileProtocol};
 
@@ -33,7 +33,7 @@ const SubBruteProtocol subbrute_protocol_came_12bit_315 = {
     .frequency = 315000000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = CAMEFileProtocol};
 
@@ -44,7 +44,7 @@ const SubBruteProtocol subbrute_protocol_came_12bit_433 = {
     .frequency = 433920000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = CAMEFileProtocol};
 
@@ -55,7 +55,7 @@ const SubBruteProtocol subbrute_protocol_came_12bit_868 = {
     .frequency = 868350000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = CAMEFileProtocol};
 
@@ -66,7 +66,7 @@ const SubBruteProtocol subbrute_protocol_nice_12bit_433 = {
     .frequency = 433920000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = NICEFileProtocol};
 
@@ -77,7 +77,7 @@ const SubBruteProtocol subbrute_protocol_nice_12bit_868 = {
     .frequency = 868350000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = NICEFileProtocol};
 
@@ -88,7 +88,7 @@ const SubBruteProtocol subbrute_protocol_ansonic_12bit_433075 = {
     .frequency = 433075000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPreset2FSKDev238Async,
     .file = AnsonicFileProtocol};
 
@@ -99,7 +99,7 @@ const SubBruteProtocol subbrute_protocol_ansonic_12bit_433 = {
     .frequency = 433920000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPreset2FSKDev238Async,
     .file = AnsonicFileProtocol};
 
@@ -110,7 +110,7 @@ const SubBruteProtocol subbrute_protocol_ansonic_12bit_434 = {
     .frequency = 434075000,
     .bits = 12,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPreset2FSKDev238Async,
     .file = AnsonicFileProtocol};
 
@@ -121,7 +121,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_9bit_300 = {
     .frequency = 300000000,
     .bits = 9,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -132,7 +132,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_9bit_315 = {
     .frequency = 315000000,
     .bits = 9,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -143,7 +143,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_9bit_390 = {
     .frequency = 390000000,
     .bits = 9,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -154,7 +154,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_9bit_433 = {
     .frequency = 433920000,
     .bits = 9,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -165,7 +165,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_8bit_300 = {
     .frequency = 300000000,
     .bits = 8,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -176,7 +176,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_8bit_315 = {
     .frequency = 315000000,
     .bits = 8,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -187,7 +187,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_8bit_390 = {
     .frequency = 390000000,
     .bits = 8,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -198,7 +198,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_7bit_300 = {
     .frequency = 300000000,
     .bits = 7,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -209,7 +209,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_7bit_315 = {
     .frequency = 315000000,
     .bits = 7,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
@@ -220,7 +220,7 @@ const SubBruteProtocol subbrute_protocol_chamberlain_7bit_390 = {
     .frequency = 390000000,
     .bits = 7,
     .te = 0,
-    .repeat = 3,
+    .repeat = 10,
     .preset = FuriHalSubGhzPresetOok650Async,
     .file = ChamberlainFileProtocol};
 
